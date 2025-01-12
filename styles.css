@@ -15,7 +15,7 @@ body {
 
 /* Container */
 .container {
-    width: 70%;
+    width: 960px;
     margin: auto;
 }
 
@@ -61,7 +61,7 @@ li > a:hover {
 .hero-section .container {
     display: flex;
     padding: 100px 0;
-    gap: 10px;
+    gap: 30px;
 }
 
 .hero-section .container header,
